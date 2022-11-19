@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1382024089 source:c:\users\iris22014\documents\codeblocks\pendu\main.cpp
+	<iostream>
+	<sqlite.h>
+	"MotAleatoire.h"
+
+1381246771 c:\users\iris22014\documents\codeblocks\sqlite\sqlite.h
+	<string>
+	<vector>
+	"sqlite3.h"
+	<map>
+
+1378229181 c:\users\iris22014\documents\codeblocks\sqlite\sqlite3.h
+	<stdarg.h>
+
+1382023906 source:c:\users\iris22014\documents\codeblocks\pendu\motaleatoire.cpp
+	"MotAleatoire.h"
+
+1382022984 c:\users\iris22014\documents\codeblocks\pendu\motaleatoire.h
+	<sqlite.h>
+
