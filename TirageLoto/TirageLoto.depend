@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1363018351 source:e:\users\iris 1\desktop\projet cc++\tirageloto\main.cpp
+	<iostream>
+	"ihm.h"
+
+1363621371 source:e:\users\iris 1\desktop\projet cc++\tirageloto\tirageloto.cpp
+	"TirageLoto.h"
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1363621399 e:\users\iris 1\desktop\projet cc++\tirageloto\tirageloto.h
+
+1363018823 e:\users\iris 1\desktop\projet cc++\tirageloto\ihm.h
+	"TirageLoto.h"
+
+1363621452 source:e:\users\iris 1\desktop\projet cc++\tirageloto\ihm.cpp
+	"ihm.h"
+	<iostream>
+

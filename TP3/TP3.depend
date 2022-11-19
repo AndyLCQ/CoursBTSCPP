@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1357573348 source:e:\users\iris1\desktop\tp3\main.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1358177576 source:e:\users\iris 1\desktop\projet cc++\tp3\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"tableau.h"
+
+1358177523 source:e:\users\iris 1\desktop\projet cc++\tp3\tableau.cpp
+	"tableau.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1358177491 e:\users\iris 1\desktop\projet cc++\tp3\tableau.h
+
+1358174132 source:e:\users\iris 1\desktop\projet cc++\tp3\tableau.c
+	"tableau.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+

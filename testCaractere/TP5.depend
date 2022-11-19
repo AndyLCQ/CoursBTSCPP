@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1189864956 source:e:\users\iris 1\desktop\projet cc++\testcaractere\main.cpp
+	<iostream>
+
+1358777469 source:e:\users\iris 1\desktop\projet cc++\testcaractere\princi.cpp
+	<conio.h>
+	"caractere.h"
+	<stdlib.h>
+
+1358777470 e:\users\iris 1\desktop\projet cc++\testcaractere\caractere.h
+
+1358777503 source:e:\users\iris 1\desktop\projet cc++\testcaractere\caractere.cpp
+	<ctype.h>
+	<iostream>
+	"caractere.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1368454098 source:e:\users\iris 1\desktop\projet cc++\tableaubitsameliorer\bitsam.cpp
+	"BitsAm.h"
+
+1368454098 e:\users\iris 1\desktop\projet cc++\tableaubitsameliorer\bitsam.h
+	<ostream>
+
+1368454381 source:e:\users\iris 1\desktop\projet cc++\tableaubitsameliorer\main.cpp
+	<iostream>
+	"BitsAm.h"
+

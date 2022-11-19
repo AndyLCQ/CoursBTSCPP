@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1366039243 source:e:\users\iris 1\desktop\projet cc++\tableaubits\bits.cpp
+	"Bits.h"
+
+1366039228 e:\users\iris 1\desktop\projet cc++\tableaubits\bits.h
+	<ostream>
+
+1366040407 source:e:\users\iris 1\desktop\projet cc++\tableaubits\main.cpp
+	<iostream>
+	"Bits.h"
+

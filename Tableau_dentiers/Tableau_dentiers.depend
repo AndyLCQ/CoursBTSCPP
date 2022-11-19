@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1358179395 source:e:\users\iris 1\desktop\projet cc++\tableau_dentiers\main.cpp
+	"Application.h"
+
+1358179306 source:e:\users\iris 1\desktop\projet cc++\tableau_dentiers\application.cpp
+	"Application.h"
+	<iostream>
+
+1358179706 e:\users\iris 1\desktop\projet cc++\tableau_dentiers\application.h
+
