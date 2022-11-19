@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1360594787 source:e:\users\iris 1\desktop\projet cc++\caractere3\main.cpp
+	<iostream>
+	"ihm.h"
+
+1360594529 source:e:\users\iris 1\desktop\projet cc++\caractere3\chaine.cpp
+	<ctype.h>
+	<iostream>
+	"Chaine.h"
+
+1359390891 e:\users\iris 1\desktop\projet cc++\caractere3\chaine.h
+
+1360595504 source:e:\users\iris 1\desktop\projet cc++\caractere3\ihm.cpp
+	"ihm.h"
+	<iostream>
+
+1360593230 e:\users\iris 1\desktop\projet cc++\caractere3\ihm.h
+	"Chaine.h"
+

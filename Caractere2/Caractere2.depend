@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1359388187 source:e:\users\iris 1\desktop\projet cc++\caractere2\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	"caractere.h"
+
+1358778678 e:\users\iris 1\desktop\projet cc++\caractere2\caractere.h
+	"minmaj.h"
+
+1358778369 e:\users\iris 1\desktop\projet cc++\caractere2\minmaj.h
+
+1359388790 source:e:\users\iris 1\desktop\projet cc++\caractere2\caractere.cpp
+	"Caractere.h"
+	<ctype.h>
+	<iostream>
+	"caractere.h"
+
