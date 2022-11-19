@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1361204301 source:e:\users\iris 1\desktop\projet cc++\isbn\main.cpp
+	<iostream>
+	"ihm.h"
+
+1361202593 source:e:\users\iris 1\desktop\projet cc++\isbn\isbn.cpp
+	<ctype.h>
+	<iostream>
+	<string.h>
+	<math.h>
+	"isbn.h"
+
+1360596998 e:\users\iris 1\desktop\projet cc++\isbn\isbn.h
+
+1361203784 source:e:\users\iris 1\desktop\projet cc++\isbn\ihm.cpp
+	"ihm.h"
+	<iostream>
+
+1361200894 e:\users\iris 1\desktop\projet cc++\isbn\ihm.h
+	"Isbn.h"
+

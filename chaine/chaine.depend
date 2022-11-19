@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1361184606 source:e:\users\pc-203-10\desktop\chaine\chaine.cpp
+	<ctype.h>
+	<iostream>
+	"chaine.h"
+
+1336643232 e:\users\pc-203-10\desktop\chaine\chaine.h
+
+1361184755 source:e:\users\pc-203-10\desktop\chaine\ihm.cpp
+	<conio.h>
+	"IHM.h"
+	<iostream>
+	<stdlib.h>
+
+1361184764 e:\users\pc-203-10\desktop\chaine\ihm.h
+	"chaine.h"
+
+1361184910 source:e:\users\pc-203-10\desktop\chaine\princi.cpp
+	"ihm.h"
+
