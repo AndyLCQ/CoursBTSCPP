@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1364223630 source:e:\users\iris 1\desktop\projet cc++\services\main.cpp
+	<iostream>
+	"ihm.h"
+
+1364223845 source:e:\users\iris 1\desktop\projet cc++\services\tempo.cpp
+	"Tempo.h"
+	<windows.h>
+
+1364221002 e:\users\iris 1\desktop\projet cc++\services\tempo.h
+
+1364224228 source:e:\users\iris 1\desktop\projet cc++\services\ihm.cpp
+	"Ihm.h"
+	<iostream>
+
+1364221429 e:\users\iris 1\desktop\projet cc++\services\ihm.h
+	"tempo.h"
+

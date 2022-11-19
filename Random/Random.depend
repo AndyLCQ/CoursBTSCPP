@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1364229085 source:e:\users\iris 1\desktop\projet cc++\random\main.cpp
+	<iostream>
+	"Random.h"
+
+1364228573 source:e:\users\iris 1\desktop\projet cc++\random\random.cpp
+	"Random.h"
+
+1364226806 e:\users\iris 1\desktop\projet cc++\random\random.h
+	<stdlib.h>
+
